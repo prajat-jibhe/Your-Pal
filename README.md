@@ -1,2 +1,4 @@
 # Your-Pal
 INTERACTIVE AI BASED COMPANION
+
+"Your-Pal" is a cutting-edge artificial intelligence (AI) companion that combines speech recognition, face expression detection, and Google Bard to improve user experience. The development, features, and consequences of Your-Pal are presented in this presentation, with a focus on how it can have natural conversations with users. Google Bard's integration enhances the conversational interface, and face expression detection gives the companion another emotional intelligence layer that enables it to react with empathy. Speech recognition technology also improves user interactions by offering a smooth and convenient experience. This paper explores the development and functionalities of Your-Pal, underscoring its potential to redefine user interactions and contribute to the ever-evolving field of AI companions.
